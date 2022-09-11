@@ -1,0 +1,21 @@
+.mainvideo{
+  display: inline-block;
+  width: 68%;
+  padding: 20px;
+  box-sizing: border-box;
+  vertical-align: top;
+  height: 100%;
+  
+}
+
+
+.suggestionvideos{
+  display: inline-block;
+  padding: 3px;
+  width:30%;
+}
+
+.Comments{
+  
+
+}
